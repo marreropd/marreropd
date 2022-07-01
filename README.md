@@ -10,6 +10,7 @@ Software Engineer!
 *   🧠  I'm learning Java/Spring - Node/React
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  enthusiastic guy who loves to learn new stuff
+     
      [linkedin Profile](https://www.linkedin.com/in/marrero-pablo/)
 
 
