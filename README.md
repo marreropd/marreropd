@@ -1,6 +1,15 @@
 Hi 👋 My name is Pablo
-======================Software Engineer!------------------* 🌍  I'm based in Uruguay but I love travel* 🖥️  See my portfolio at [My Portfolio](http://portfolio-pablo-marrero.vercel.app/)* ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)* 🧠  I'm learning Java/Spring - Node/React* 🤝  I'm open to collaborating on interesting projects* ⚡  enthusiastic guy who loves to learn new stuff
+======================
 
+Software Engineer!
+------------------
+
+*   🌍  I'm based in Uruguay but I love travel
+*   🖥️  See my portfolio at [My Portfolio](http://portfolio-pablo-marrero.vercel.app/)
+*   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
+*   🧠  I'm learning Java/Spring - Node/React
+*   🤝  I'm open to collaborating on interesting projects
+*   ⚡  enthusiastic guy who loves to learn new stuff
      [linkedin Profile](https://www.linkedin.com/in/marrero-pablo/)
 
 
