@@ -4,8 +4,6 @@ Hi 👋 My name is Pablo
 Software Engineer!
 ------------------
 
-This is my personal account, and [This is my company account](https://github.com/pmarrerovfg)
-
 *   🌍  I'm based in Uruguay but I love travel
 *   🖥️  See my portfolio at [My Portfolio](http://portfolio-pablo-marrero.vercel.app/)
 *   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
