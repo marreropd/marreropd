@@ -7,7 +7,7 @@ Software Engineer!
 *   🌍  I'm based in Uruguay but I love travel
 *   🖥️  See my portfolio at [My Portfolio](http://portfolio-pablo-marrero.vercel.app/)
 *   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
-*   🧠  I'm learning Java/Spring - Node/React
+*   🧠  I'm learning C#/.net - Node/React
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  enthusiastic guy who loves to learn new stuff
      
