@@ -16,9 +16,6 @@ Software Engineer!
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marreropd&count_private=true)
-
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marreropd)](https://github.com/anuraghazra/github-readme-stats&include_all_commits=true)
  
