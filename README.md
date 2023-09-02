@@ -7,7 +7,7 @@ Software Engineer!
 *   🌍  I'm based in Spain
 *   🖥️  See my portfolio at [My Portfolio](http://portfolio-pablo-marrero.vercel.app/)
 *   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
-*   🧠  I'm learning Java - Typescript - Javascript - Node/React
+*   🧠  I'm into Typescript - Javascript - Node/React
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  enthusiastic guy who loves to learn new stuff
      
