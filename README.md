@@ -9,7 +9,6 @@ Software Engineer!
 *   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
 *   🧠  I'm into Typescript - Javascript - Node/React
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  enthusiastic guy who loves to learn new stuff
      
      [linkedin Profile](https://www.linkedin.com/in/marrero-pablo/)
 
