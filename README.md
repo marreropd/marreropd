@@ -18,3 +18,5 @@ Software Engineer!
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marreropd)](https://github.com/anuraghazra/github-readme-stats&include_all_commits=true)
 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=marreropd)](https://git.io/streak-stats)
+
