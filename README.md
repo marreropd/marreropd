@@ -5,7 +5,6 @@ Software Engineer!
 ------------------
 
 *   🌍  I'm based in Spain
-*   🖥️  See my portfolio at [My Portfolio](http://pablomarrero.tech/)
 *   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
 *   🧠  I'm into Typescript - Javascript - Node/React
 *   🤝  I'm open to collaborating on interesting projects
