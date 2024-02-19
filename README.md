@@ -4,8 +4,6 @@ Hi 👋 My name is Pablo
 Software Engineer!
 ------------------
 
-*   🌍  I'm based in Spain
-*   ✉️  You can contact me at [pablomarrerofernandez1@gmail.com](mailto:pablomarrerofernandez1@gmail.com)
 *   🧠  I'm into Typescript - Javascript - Node/React
 *   🤝  I'm open to collaborating on interesting projects
      
