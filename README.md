@@ -1,7 +1,7 @@
 Hi 👋 My name is Pablo
 ======================
 
-Software Engineer!
+Software Developer!
 ------------------
 
 *   🧠  I'm into Typescript - Javascript - Node/React
