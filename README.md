@@ -1,6 +1,8 @@
 Hi 👋 My name is Pablo
 ======================
 
+*   UK based
+   
 Software Developer!
 ------------------
 
