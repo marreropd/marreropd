@@ -6,7 +6,7 @@ Hi 👋 My name is Pablo
 Software Developer!
 ------------------
 
-*   🧠  I'm into Typescript - Javascript - C# - .NET
+*   🧠  I'm into Typescript - Javascript - Java
 *   🤝  I'm open to collaborating on interesting projects
      
      [linkedin Profile](https://www.linkedin.com/in/marrero-pablo/)
